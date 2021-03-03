@@ -82,6 +82,7 @@
             android:layout_column="1"
             android:layout_marginStart="10dp"
             android:layout_marginLeft="10dp"
+            android:background="@color/white"
             android:hint="@string/tPass"
             android:importantForAutofill="no"
             android:padding="5dp"
