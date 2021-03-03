@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Act1_TableLayout</string>
+    <string name="loginForm">Login Form</string>
+    <string name="tUser">Username</string>
+    <string name="tPass">Password</string>
+    <string name="login">Login</string>
+    <string name="tLogo">Icon Login</string>
+</resources>
